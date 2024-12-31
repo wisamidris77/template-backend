@@ -1,4 +1,4 @@
-module github.com/wisamidris7/api
+module github.com/wisamidris7/template-backend
 
 go 1.23.4
 
